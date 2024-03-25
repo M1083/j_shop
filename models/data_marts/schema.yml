@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: dm_order_status
+    description: "Data mart order status"

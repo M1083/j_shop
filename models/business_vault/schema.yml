@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: as_of_date
+    description: "as_of_date for PIT"
+    
+  - name: pit_customer
+    description: "PIT customer"
